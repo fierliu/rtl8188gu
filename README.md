@@ -1,3 +1,4 @@
+tplink无线网卡 for mint
 
 Driver for Linux RTL8188GU (RTL8710B) (VID:PID = 0x0BDA:0xB711)
 ===============================================================
